@@ -1,6 +1,9 @@
 <!-- Your title -->
 ## Hi, I'm Kirtesh, a Developer 🚀.
 
+Currently studying Computer Engineering at the University of Waterloo.
+
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kirtesh123)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kirtesh-patel/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kirteshp18@gmail.com)
