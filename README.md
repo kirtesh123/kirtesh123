@@ -3,11 +3,9 @@
 
 Currently studying Computer Engineering at the University of Waterloo.
 
+&nbsp;
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kirtesh-patel/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kirteshp18@gmail.com)
-
-&nbsp;
-
 <!-- **Talking about Personal Stuffs:**
 
 
