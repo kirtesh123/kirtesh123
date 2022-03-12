@@ -1,10 +1,11 @@
 <!-- Your title -->
-## Hi, I'm Kirtesh, a Developer 🚀.
+## Hi, I'm Kirtesh.
 
-&nbsp;
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kirtesh-patel/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kirteshp18@gmail.com)
-<!-- **Talking about Personal Stuffs:**
+<!-- &nbsp;
+[![Linkedin](https://user-images.githubusercontent.com/58347998/158000200-75ced1d1-15c5-49f7-be8f-8e86e08a3c49.png)](https://www.linkedin.com/in/kirtesh-patel/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kirteshp18@gmail.com) -->
+[![LinkedIn_icon_circle svg](https://user-images.githubusercontent.com/58347998/158000216-6b92a144-55df-4c86-95ac-66653eca88c8.png)](https://www.linkedin.com/in/kirtesh-patel/)
+[![88e50689fa3280c748d000aaf0bad480-email-round-icon-1](https://user-images.githubusercontent.com/58347998/158000251-89931dcf-6815-4909-a846-22b9028513d0.png)](mailto:kirteshp18@gmail.com)
 
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
