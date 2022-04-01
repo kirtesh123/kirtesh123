@@ -1,4 +1,4 @@
-## Hi, I'm Kirtesh
+## Hi, I'm Kirtesh.
 
 [<img width="5%" align="left" alt="Email" src="https://user-images.githubusercontent.com/58347998/158000537-5b81106d-6d5b-43c4-8246-11fecae0b934.jpg" />](mailto:kirteshp18@gmail.com)
 [<img width="5%" align="left" alt="LinkedIn" src="https://user-images.githubusercontent.com/58347998/158000216-6b92a144-55df-4c86-95ac-66653eca88c8.png" />](https://www.linkedin.com/in/kirtesh-patel/)
